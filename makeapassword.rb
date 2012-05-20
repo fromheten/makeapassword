@@ -7,7 +7,7 @@
 ## responsability that it will work, or that it will not kill a kitten. Just don't remove theese comments, please!
 
 # Functionality: create a (very) hard-to-bruteforce password and
-# print it to SDTOUT and to the clipboard for easy pasting into forms and password managers.
+# print it to the clipboard for easy pasting into forms and password managers.
 require 'rubygems'
 require 'clipboard'
 
@@ -25,7 +25,7 @@ def create_password(pwdlen)
 
 	# Houston, we have a password!
 	Clipboard.copy pwd
-	puts Clipboard.paste
+	#puts Clipboard.paste
 end
 
 create_password(leng)
