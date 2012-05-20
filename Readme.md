@@ -1,6 +1,7 @@
 # makeapassword
 
-Create a _ridiculously_ long password in one short command.
+Create a _ridiculously_ long password in one short command. And then paste it.
+
 By Martin Josefsson.
 
 ## Installation
