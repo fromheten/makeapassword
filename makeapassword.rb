@@ -1,3 +1,6 @@
+#!/usr/bin/env ruby
+# encoding: utf-8
+
 ## makeapassword by Martin Josefsson, 20/5 2012
 ## If anyone ever uses this code, feel free to send a short mail to josefsson.martin+makeapasswordrb@gmail.com. 
 ## The software is free for anyone to use for any purpose that isnt mean or evil, but I don't take any
