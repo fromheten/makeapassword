@@ -18,4 +18,4 @@ will produce a password with the length of 50 charcacters.
 Relies on the ['clipboard' gem by janelis](https://github.com/janlelis). Works like a charm!
 
 ## Copyright
-I, Martin Josefsson, own the rights of this code. It's released under the MIT license, so in a way, you also own it, buddy.
+I guess I own the rights of this code. It's released under the MIT license, so in a way, you also own it, buddy.
